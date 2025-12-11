@@ -1,0 +1,21 @@
+Name,Eat,Rating,Course,Flavor,Category,Culture,Protein,Carbohydrate,Fruit,Vegetable
+Pad Thai,YES,10,Main Dish,Not Available,Noodles,Asian,Chicken,Noodle,Not Available,Not Available
+Ramen,YES,10,Main Dish,Umami,Noodles,Asian,Pork,Noodle,Not Available,Not Available
+Sushi,YES,9,Main Dish,Umami,Seafood,Asian,Fish,Rice,Not Available,Not Available
+Burrito,YES,8,Main Dish,Umami,Burrito,Mexican,Beef,Rice,Not Available,Not Available
+Nachos,YES,8,Side Dish,Salty,Chips,Mexican,Beef,Tortilla,Not Available,Not Available
+Hot Dog,YES,6,Main Dish,Umami,Sandwich,American,Pork,Bread,Not Available,Not Available
+Pepperoni Pizza,YES,6,Main Dish,Umami,Pizza,Italian,Pork,Bread,Not Available,Not Available
+Burger,YES,7,Main Dish,Umami,Sandwich,American,Beef,Bread,Not Available,Not Available
+PBJ Sandwich,YES,7,Main Dish,Sweet,Sandwich,American,Peanuts,Bread,Grapes,Not Available
+Chicken Noodle Soup,YES,6,Main Dish,Not Available,Soup,American,Chicken,Noodle,Not Available,Not Available
+Chocolate Milkshake,YES,7,Dessert,Sweet,Dairy,American,Milk,Not Available,Chocolate,Not Available
+Black Coffee,NO,1,Drink,Bitter,Beverage,American,Not Available,Not Available,Coffee,Not Available
+Strawberry Banana Smoothie,YES,10,Dessert,Sweet,Beverage,American,Not Available,Not Available,Strawberry,Not Available
+Lemon Custard Donut,YES,8,Dessert,Sweet,Pastry,American,Not Available,Bread,Lemon,Not Available
+Apple Juice,YES,10,Drink,Sweet,Beverage,American,Not Available,Not Available,Apple,Not Available
+Vanilla Ice Cream,YES,8,Dessert,Sweet,Dairy,American,Milk,Not Available,Vanilla,Not Available
+Guacamole,YES,10,Side Dish,Not Available,Condiment,Mexican,Not Available,Not Available,Avocado,Not Available
+Salad,YES,7,Main Dish,Not Available,Salad,American,Not Available,Not Available,Not Available,Lettuce
+Tea,YES,6,Drink,Bitter,Beverage,Asian,Not Available,Not Available,Not Available,Not Available
+Steak,YES,9,Main Dish,Umami,Beef,American,Beef,Not Available,Not Available,Not Available
